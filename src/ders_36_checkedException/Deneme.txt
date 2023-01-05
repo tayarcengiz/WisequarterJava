@@ -1,0 +1,3 @@
+java okuma dosyasi
+
+Gun gectikce bizde gelisme ve duzelme var.
